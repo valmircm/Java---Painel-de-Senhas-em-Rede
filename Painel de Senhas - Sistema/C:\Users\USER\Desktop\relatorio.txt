@@ -1,0 +1,15 @@
+| Nº: 0 | Senha: SP0000 | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:55:48
+null
+| Nº: 1 | Senha: SN0000 | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:55:50
+null
+| Nº: 2 | Senha: SN0001 | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:55:52
+null
+| Nº: 3 | Senha: Sem senhas | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:55:54
+null
+| Nº: 4 | Senha: Sem senhas | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:55:56
+null
+| Nº: 5 | Senha: SP0001 | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:59:55
+null
+| Nº: 6 | Senha: Sem senhas | Guiche: 5 | Inicio Atendimento: 16/07/2020 22:59:56
+null
+nullnullnullnullnull

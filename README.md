@@ -1,4 +1,5 @@
 # Painel de Senhas em Rede
+Projeto criado para a disciplina de POO
 
 Sistema para atedimento através de senhas com suporte a senha preferêncial.
 
